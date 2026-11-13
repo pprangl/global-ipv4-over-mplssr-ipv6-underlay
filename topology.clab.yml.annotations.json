@@ -1,0 +1,247 @@
+{
+  "freeTextAnnotations": [
+    {
+      "id": "freeText_1777596470970",
+      "text": "## Welcome!\n\n#### *If the topology canvas is locked (indicated by the red padlock at the top of the palette) -- Simply click the lock to unlock the topology to begin editing.*\n\nGet started by selecting an `Arista cEOS` or `Linux Host` node from the palette and dragging it into the topology canvas.\n\nAdd links by right-clicking nodes and selecting `Create Link.`\n\nLinux hosts can be configured by right-clicking and selecting `Edit Node` and then `Configuration.`\n\nThe following can be configured on a Linux Host:\n- IPv4 Address\n- IPv6 Address (*optional*)\n- MAC Address (*optional*)\n- Default Gateway\n- Connect Mode (*optional*): `lacp` or `none.`\n\nAny *optional* value can be deleted or left blank in the `Configuration` section.\n\n### *Delete this text block at any time by right-clicking it and selecting `Delete Text`*",
+      "position": {
+        "x": 1104.167711038404,
+        "y": -35.30268672716943
+      },
+      "fontSize": 14,
+      "fontColor": "#000000",
+      "backgroundColor": "#f5f5f5",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial",
+      "width": 679,
+      "height": 561
+    },
+    {
+      "id": "freeText_1794563307686",
+      "text": "Node ID 12",
+      "position": {
+        "x": 244.5,
+        "y": 292.95150240205066
+      },
+      "fontSize": 14,
+      "fontColor": "#3b3b3b",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1794563319920",
+      "text": "Node ID 13",
+      "position": {
+        "x": 424.5,
+        "y": 292.95150240205066
+      },
+      "fontSize": 14,
+      "fontColor": "#3b3b3b",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1794563324975",
+      "text": "Node ID 14",
+      "position": {
+        "x": 604.5,
+        "y": 292.95150240205066
+      },
+      "fontSize": 14,
+      "fontColor": "#3b3b3b",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1794563339883",
+      "text": "MGMT Network 172.100.100.A/24\nA is Node ID",
+      "position": {
+        "x": 98.5,
+        "y": 35.67738562072867
+      },
+      "fontSize": 14,
+      "fontColor": "#3b3b3b",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1794563352103",
+      "text": "Link Networks 10.X.Y.A/24\n2001:0:X:Y::A/64\nX is lower Node ID\nY is higher Node ID\nA is Node ID\n",
+      "position": {
+        "x": 98.5,
+        "y": 81.59911607168362
+      },
+      "fontSize": 14,
+      "fontColor": "#3b3b3b",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1794563399330",
+      "text": "Node ID 11",
+      "position": {
+        "x": 81,
+        "y": 292.95150240205066
+      },
+      "fontSize": 14,
+      "fontColor": "#3b3b3b",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1794563418951",
+      "text": "Node ID 15",
+      "position": {
+        "x": 780.5,
+        "y": 292.95150240205066
+      },
+      "fontSize": 14,
+      "fontColor": "#3b3b3b",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1794563520070",
+      "text": "Loopback Network A.A.A.A/32\n2002::A/128\nA is Node ID",
+      "position": {
+        "x": 98.5,
+        "y": 206.19731327283057
+      },
+      "fontSize": 14,
+      "fontColor": "#3b3b3b",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1794563602004",
+      "text": "IPv4 Node SID 4A\nIPv6 Node SID 6A\nA is Node ID",
+      "position": {
+        "x": 424.5,
+        "y": 81.59911607168362
+      },
+      "fontSize": 14,
+      "fontColor": "#3b3b3b",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1794563653817",
+      "text": "ISIS Domain CORE\nnet 49.0001.0000.0000.00A.00\nA is Node ID",
+      "position": {
+        "x": 620,
+        "y": 81.59911607168362
+      },
+      "fontSize": 14,
+      "fontColor": "#3b3b3b",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1794563706459",
+      "text": "Global IPv4 over MPLS-SR core with IPv6 underlay",
+      "position": {
+        "x": 98.5,
+        "y": -17.399646568771203
+      },
+      "fontSize": 18,
+      "fontColor": "#ff3300",
+      "fontWeight": "bold",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    },
+    {
+      "id": "freeText_1794564282249",
+      "text": "CORE BGP AS 65666\nP is RR\nCE1 BGP AS 65123\nCE2 BGP AS 65345",
+      "position": {
+        "x": 419,
+        "y": 180.59911607168362
+      },
+      "fontSize": 14,
+      "fontColor": "#3b3b3b",
+      "fontWeight": "normal",
+      "fontStyle": "normal",
+      "textDecoration": "none",
+      "textAlign": "left",
+      "fontFamily": "Arial"
+    }
+  ],
+  "freeShapeAnnotations": [],
+  "trafficRateAnnotations": [],
+  "scriptButtonAnnotations": [],
+  "groupStyleAnnotations": [],
+  "networkNodeAnnotations": [],
+  "nodeAnnotations": [
+    {
+      "id": "ce1",
+      "position": {
+        "x": 100,
+        "y": 360
+      }
+    },
+    {
+      "id": "pe1",
+      "position": {
+        "x": 260,
+        "y": 360
+      }
+    },
+    {
+      "id": "p1",
+      "position": {
+        "x": 440,
+        "y": 360
+      }
+    },
+    {
+      "id": "pe2",
+      "position": {
+        "x": 620,
+        "y": 360
+      }
+    },
+    {
+      "id": "ce2",
+      "position": {
+        "x": 800,
+        "y": 360
+      }
+    }
+  ],
+  "edgeAnnotations": [],
+  "aliasEndpointAnnotations": [],
+  "viewerSettings": {}
+}
